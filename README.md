@@ -1,2 +1,0 @@
-# Chizurum
-readme.txt
